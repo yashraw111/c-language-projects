@@ -17,7 +17,6 @@ int main() {
             fprintf(oddFile, "%d,", i);
         }
     }
-
     fclose(evenFile);
     fclose(oddFile);
 
